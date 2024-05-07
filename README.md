@@ -1,6 +1,6 @@
 # Intro to Deep Learning with PyTorch - Udacity Coursework
 
-This repository contains my coursework for Udacity's [Intro to Deep Learning with PyTorch](https://learn.udacity.com/courses/ud188) course.
+This repository contains my coursework for Udacity's [Intro to Deep Learning with PyTorch](https://www.udacity.com/enrollment/ud188) course. 
 
 ## Course Description
 
